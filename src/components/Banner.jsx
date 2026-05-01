@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Banner = () => {
   return (
-    <div className="bg-[url('https://www.teachermagazine.com/assets/images/teacher/_1200x630_crop_center-center_82_none/Most_borrowed_books_1.jpg')] h-[60vh] w-full bg-cover bg-no-repeat bg-center flex items-center rounded-lg shadow-2xl">
+    <div className="container mx-auto bg-[url('https://www.teachermagazine.com/assets/images/teacher/_1200x630_crop_center-center_82_none/Most_borrowed_books_1.jpg')] h-[70vh] w-full bg-cover bg-no-repeat bg-center flex items-center rounded-lg shadow-2xl my-5">
       {/* Overlay */}
       <div className="w-full h-full rounded-lg bg-black/50 flex items-center ">
         <div className="max-w-7xl mx-auto px-6 text-white">
