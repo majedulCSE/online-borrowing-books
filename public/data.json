@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Arif Rahman",
+    "description": "A mysterious tale of a forest where secrets whisper through the trees.",
+    "category": "Story",
+    "likes": 210,
+    "available_quantity": 12,
+    "image_url": "https://m.media-amazon.com/images/M/MV5BODUwMjRkYTUtNDViOS00MDBkLWEwMjAtMmE1ODAzMWJlOTFkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials",
+    "author": "Nusrat Jahan",
+    "description": "A beginner-friendly guide to mastering JavaScript programming.",
+    "category": "Tech",
+    "likes": 315,
+    "available_quantity": 20,
+    "image_url": "https://static-ppimages.freetls.fastly.net/nielsens/9781394263219.jpg?canvas=300,300&fit=bounds&height=300&mode=max&width=300&404=default.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Cosmos Explained",
+    "author": "Dr. Hasan Ali",
+    "description": "An exploration of the universe, from galaxies to black holes.",
+    "category": "Science",
+    "likes": 254,
+    "available_quantity": 8,
+    "image_url": "https://shop.powerhouse.com.au/cdn/shop/files/9780711252745_563x700.jpg"
+  },
+  {
+    "id": 4,
+    "title": "River of Dreams",
+    "author": "Sadia Karim",
+    "description": "A heartfelt story about love and loss along a flowing river.",
+    "category": "Story",
+    "likes": 355,
+    "available_quantity": 15,
+    "image_url": "https://heritagehouse.ca/cdn/shop/files/BNCImageAPI_158f5fc9-a71d-42ee-b62f-6ceb49e588e1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "React in Action",
+    "author": "Imran Hossain",
+    "description": "A practical guide to building modern web applications with React.",
+    "category": "Tech",
+    "likes": 300,
+    "available_quantity": 10,
+    "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781617293856/react-in-action-9781617293856_hr.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Quantum Wonders",
+    "author": "Dr. Farhana Sultana",
+    "description": "Understanding the strange and fascinating world of quantum physics.",
+    "category": "Science",
+    "likes": 415,
+    "available_quantity": 6,
+    "image_url": "https://covers.tailoredread.com/65997475-14c5-4903-be41-057712740b40-cp-v6-957c5a7e-md.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Lost Village",
+    "author": "Mahmudul Hasan",
+    "description": "A gripping story of a forgotten village and its hidden past.",
+    "category": "Story",
+    "likes": 222,
+    "available_quantity": 9,
+    "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1665755802i/7152320.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Python for Data Science",
+    "author": "Shakil Ahmed",
+    "description": "Learn how to use Python for data analysis and machine learning.",
+    "category": "Tech",
+    "likes": 501,
+    "available_quantity": 18,
+    "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1605746862i/55935174.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Human Brain",
+    "author": "Dr. Rafiq Islam",
+    "description": "An in-depth look at the structure and function of the human brain.",
+    "category": "Science",
+    "likes": 554,
+    "available_quantity": 7,
+    "image_url": "https://www.univ.ox.ac.uk/wp-content/uploads/2018/11/The-Human-Brain.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Midnight Letters",
+    "author": "Tasnia Ahmed",
+    "description": "A romantic story told through letters written at midnight.",
+    "category": "Story",
+    "likes": 322,
+    "available_quantity": 14,
+    "image_url": "https://m.media-amazon.com/images/I/71zCPYnAriL._AC_UF350,350_QL50_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Next.js Deep Dive",
+    "author": "Rakibul Islam",
+    "description": "Advanced concepts and best practices for building apps with Next.js.",
+    "category": "Tech",
+    "likes": 324,
+    "available_quantity": 11,
+    "image_url": "https://m.media-amazon.com/images/I/61qLEcQqYVL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Climate Change Today",
+    "author": "Dr. Samina Chowdhury",
+    "description": "A comprehensive overview of climate change and its global impact.",
+    "category": "Science",
+    "likes": 154,
+    "available_quantity": 5,
+    "image_url": "https://cup-us.imgix.net/covers/9780231547871.jpg"
+  }
+]

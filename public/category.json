@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Story",
+    "description": "Fictional and narrative-based books including novels, short stories, and literary works."
+  },
+  {
+    "id": 2,
+    "name": "Tech",
+    "description": "Books focused on technology, programming, software development, and IT concepts."
+  },
+  {
+    "id": 3,
+    "name": "Science",
+    "description": "Books covering scientific topics such as physics, biology, chemistry, and environmental science."
+  }
+]
