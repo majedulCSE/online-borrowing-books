@@ -24,13 +24,28 @@ const BookDetailPage = async ({ params }) => {
             height={300}
             className="rounded-lg mb-4 w-full h-auto object-cover"
             />
+
           <h2 className="text-2xl font-semibold">{book.title}</h2>
             <p className="text-lg text-blue-600">
-                <span className="text-black">Author:</span> {book.author}
+                <span className="text-black font-semibold">Author:</span> {book.author}
             </p>
-          <p>Description: {book.description}</p>
+
+            <p className="text-black">
+                <span className="text-green-600 font-semibold">Description:</span> {book.description}
+            </p>
+
+            <p className="text-black">
+                <span className="text-green-600 font-semibold">Category:</span> {book.category}
+            </p>
+
+             <p className="text-black">
+                <span className="text-green-600 font-semibold">Likes:</span> {book.likes}
+            </p>
+
+             <p className="text-black">
+                <span className="text-green-600 font-semibold">Available:</span> {book.available_quantity}
+            </p>
           
-         
         </div>
       ) : (
         <p>Book not found</p>
