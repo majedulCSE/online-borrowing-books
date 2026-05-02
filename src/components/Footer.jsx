@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="relative mt-24">
+    <footer className="container mx-auto relative mt-24">
       <div className="mt-12 h-px w-full bg-linear-to-r from-transparent via-gray-300 to-transparent dark:via-white/10" />
 
       {/* Background Layer */}
@@ -30,14 +30,13 @@ const Footer = () => {
                 height={32}
                 className="dark:brightness-200"
               />
-              <h2 className="text-xl font-semibold tracking-tight text-black dark:text-white">
-                pixgen
+              <h2 className="text-sm font-semibold tracking-tight text-black dark:text-white">
+                BOOK BORROWING
               </h2>
             </div>
 
             <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400 max-w-xs">
-              Create production-ready AI visuals in seconds. Built for speed,
-              scale, and creativity.
+              Crafting the future of intellectual discovery through digital innovation.
             </p>
           </div>
 
@@ -49,26 +48,26 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-gray-600 dark:text-gray-400">
               <li>
                 <Link
-                  href="/generate"
+                  href="/all-books"
                   className="hover:text-black dark:hover:text-white transition"
                 >
-                  Generate
+                  All Books
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/all-photos"
+                  href="/all-books"
                   className="hover:text-black dark:hover:text-white transition"
                 >
-                  Gallery
+                  Book Borrowing
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/pricing"
+                  href="/Profile"
                   className="hover:text-black dark:hover:text-white transition"
-                >
-                  Pricing
+                >     
+                Profile
                 </Link>
               </li>
             </ul>
@@ -110,11 +109,11 @@ const Footer = () => {
           {/* CTA Block */}
           <div className="space-y-4">
             <h3 className="text-sm font-semibold text-black dark:text-white">
-              Start creating
+              Start Book Borrowing
             </h3>
 
             <p className="text-sm text-gray-600 dark:text-gray-400">
-              Generate your first AI image today.
+              Generate your first Book Borrowing today.
             </p>
 
             <Link
